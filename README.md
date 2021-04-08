@@ -52,6 +52,7 @@ caches statistics for your repositories. For more information, see issue
 [#3](https://github.com/jstrieb/github-stats/issues/3).
 
 # Installation
+
 <!-- TODO: Add details and screenshots -->
 
 1. Create a personal access token (not the default GitHub Actions token) using
@@ -84,3 +85,5 @@ caches statistics for your repositories. For more information, see issue
   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
   match the GitHub UI
+  
+  
