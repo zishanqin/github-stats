@@ -52,8 +52,7 @@ caches statistics for your repositories. For more information, see issue
 [#3](https://github.com/jstrieb/github-stats/issues/3).
 
 # Installation
-
-<!-- TODO: Add details and screenshots -- To help me generate the github readme file >
+<!-- TODO: Add details and screenshots -->
 
 1. Create a personal access token (not the default GitHub Actions token) using
    the instructions
